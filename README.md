@@ -1,2 +1,2 @@
 # yolo-keras
-based on Keras(you only look once)
+based on Keras you only look once(yolo)
